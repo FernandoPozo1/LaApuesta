@@ -8,7 +8,9 @@ public class LaApuesta {
     private int goles_local;
     private int goles_visitante;
     private int apostado;
-
+/**
+ * He añadido un comentario 
+ */
     /*Contructor por defecto*/
     public LaApuesta() {
     }
